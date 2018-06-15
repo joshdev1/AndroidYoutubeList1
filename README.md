@@ -19,11 +19,22 @@ the Youtube Android Player API to embed videos in an android app. A link to this
   
   -upon selecting a video from the listview a new activity will open and play the selected youtube video.
   
+  
+### useful links
+
+//Youtube Data API client library download and gradle dependancy
+https://developers.google.com/api-client-library/java/apis/youtube/v3
+
+//Google API Client Library for Java with Android neccessary dependancies
+https://developers.google.com/api-client-library/java/google-api-java-client/setup
+
+//youtube android player API download:
+https://developers.google.com/youtube/android/player/downloads/
  
 //Android youtube player tutorial: 
 https://www.youtube.com/watch?v=W4hTJybfU7s
 
 
-
+## notes
 Full disclosure, i have been developing on android for around 9 months and so please point out any mistakes you may see.
-I hope to build upon this in the future and improve the program such as adding a recycler view.
+I hope to build upon this in the future and improve the program such as adding a recycler view. In the meantime i hope this is of use.
