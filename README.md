@@ -37,4 +37,5 @@ https://www.youtube.com/watch?v=W4hTJybfU7s
 
 ## notes
 Full disclosure, i have been developing on android for around 9 months and so please point out any mistakes you may see.
-I hope to build upon this in the future and improve the program such as adding a recycler view. In the meantime i hope this is of use.
+I hope to build upon this in the future and improve the program such as adding a recycler view and 
+restricting the API key. In the meantime i hope this is of use.
