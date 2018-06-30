@@ -4,10 +4,11 @@ This Project is a demo program that shows how to configure a simple Youtube clie
 This program is a resource for a short tutorial series i am making on how to use the Youtbe Data and Android Player API's in an Android app
 to search and play videos from youtube.
 I am making this tutorial as it is the one i was hoping to find when i undertook this project and so hopefully this
-will be of use to others wishing to tackle the same technologies.
+will be of use to others wishing to do the same.
 
-This project builds upon other similar tutorials already out there such as those by CodingWithMitch on how to use 
-the Youtube Android Player API to embed videos in an android app. A link to this vdeo is provided below.
+This project is an updated version of a tutorial i found showing how to build the same project in Eclipse. Here is the link to that original tutorial. 
+
+https://code.tutsplus.com/tutorials/create-a-youtube-client-on-android--cms-22858
 
 
 
@@ -39,4 +40,4 @@ https://jar-download.com/?detail_search=g%3A%22com.google.apis%22+AND+a%3A%22goo
 
 
 ## notes
-feel free to point out any mistakes and 
+
