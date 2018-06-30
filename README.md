@@ -34,8 +34,9 @@ https://developers.google.com/youtube/android/player/downloads/
 //Android youtube player tutorial: 
 https://www.youtube.com/watch?v=W4hTJybfU7s
 
+//google-api-services-youtube jar files
+https://jar-download.com/?detail_search=g%3A%22com.google.apis%22+AND+a%3A%22google-api-services-youtube%22+AND+v%3A%22v3-rev202-1.18.0-rc%22&a=google-api-services-youtube
+
 
 ## notes
-Full disclosure, i have been developing on android for around 9 months and so please point out any mistakes you may see.
-I hope to build upon this in the future and improve the program such as adding a recycler view and 
-restricting the API key. In the meantime i hope this is of use.
+feel free to point out any mistakes and 
